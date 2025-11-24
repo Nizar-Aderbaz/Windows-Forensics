@@ -6,6 +6,16 @@ The project also includes analysis of key Windows artifacts such as MFT, USN Jou
 
 All collected evidence is combined into a Super Timeline to fully understand system and attacker activity.
 
+## 📁 Project Structure
+
+### Part 1 - Acquisition & Triage
+- `Part1_Acquisition_Triage.pdf`
+
+### Part 2 - User Behavior Analysis  
+- `Part2_User_Behavior_Analysis.pdf`
+
+*More parts coming soon…*
+
 ## Tools Used
 
 - VirtualBox / VBoxManage
@@ -19,11 +29,6 @@ All collected evidence is combined into a Super Timeline to fully understand sys
 - volatility version 3
 - Windows Event Logs
 
-## 📂 Project Parts
-
-1. **Part 1**: Acquisition & Triage
-2. **Part 2**: User Behavior Analysis
-3. *More parts coming soon…*
 
 ## 🎯 Goal
 

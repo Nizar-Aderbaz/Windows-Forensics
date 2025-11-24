@@ -1,10 +1,3 @@
-## Available Reports
-
-### Part 1: Acquisition & Triage
-- **File**: `Part-1-Acquisition-Triage.pdf`
-- **Location**: `/Part-1-Acquisition-Triage/`
-- **Focus**: Memory and disk acquisition, forensic triage, registry analysis
-
 ## Investigation Summary - Part 1
 
 ### Case Details

@@ -14,6 +14,9 @@ All collected evidence is combined into a Super Timeline to fully understand sys
 ### Part 2 - User Behavior Analysis  
 - `Part2_User_Behavior_Analysis.pdf`
 
+### Part 3 - File System & Execution Artifacts  
+- `Part3_File_System_&_Execution_Artifacts.pdf`
+
 *More parts coming soon…*
 
 ## Tools Used
